@@ -1,0 +1,42 @@
+# Useless (IOT) Box  
+
+In 2023 there will be 50.000 fantastillion devices connected to the Internet and the numbers are growing. Everybody will wear holographic super conducted, qantum powered, self aware toasters on their head and more than 200% of the world population will have access to cheap, floating, solar powered, high speed Internet with about 1000 Y/Bits per pico second.  
+To get you from "A-Guy-In-His-Pajamas" to a "Kickstarter-Ready-Startup" for this amazing future you can attend the "Useless (IOT) Box" workshop and learn how to quickly develop your working connected prototype using Particle Photon protoboards and IFTTT.com services.  
+
+## Prerequisites  
+
+- a portable computer  
+- an iOS or Android device   
+
+## Duration  
+
+- around 3 to 4 hours  
+
+## Attendes
+
+- 20
+
+## Register here  
+
+[dgtf.de/conftool](http://www.dgtf.de/conftool/)
+
+
+## About DGTF
+
+[dgtf.de/tagungen](http://www.dgtf.de/tagungen)  
+
+## License  
+
+Copyright (c) Jahr 2015, Fabian "fabiantheblind" Morón Zirfas & University of Applied Sciences Potsdam (Germany)  
+ 
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.  
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.  
