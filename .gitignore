@@ -29,3 +29,7 @@ pdfs
 # After Effects
 Adobe\ After\ Effects\ Auto-Save/
 Adobe\ After\ Effects\ Auto-Speichern
+
+# Particle Photon
+*.bin
+
