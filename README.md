@@ -5,12 +5,12 @@ To get you from "A-Guy-In-His-Pajamas" to a "Kickstarter-Ready-Startup" for this
 
 ## Prerequisites  
 
-- a portable computer  
 - an iOS or Android device   
+- a portable computer (optional)  
 
 ## Duration  
 
-- around 3 to 4 hours  
+- around 2 to 2.5 hours  
 
 ## Attendes
 
