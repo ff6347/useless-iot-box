@@ -19,6 +19,7 @@ const int notes_verse = 30; // how many notes in verse
 int buttonresults = 0;
 int potiresult = 0;
 bool toggleAnalog = false;
+bool toggleRocky = false;
 ClickButton button(buttonpin, LOW, CLICKBTN_PULLUP);
 
 void setup() {
@@ -37,8 +38,7 @@ void setup() {
 
 int rocky (String command){
   if(command == "play"){
-    play_intro();
-    play_verse();
+    toggleRocky = true;
     return 1;
   }else{
     return -1;
@@ -91,6 +91,11 @@ void play_verse(){
 
 
 void loop() {
+  if(toggleRocky == true){
+    play_intro();
+    play_verse();
+    toggleRocky = false;
+  }
   potiresult = analogRead(potipin);
   if(toggleAnalog == true){
   Serial.print("Analog Value is: ");
@@ -109,7 +114,7 @@ void loop() {
     Serial.println("SINGLE click");
     bool published = Particle.publish("dgtf-MCP-button-click", "1");
     if (published == false) {
-      Serial.println("dgtf-MCP-button-click failded to publish");
+      Serial.println("dgtf-MCP-button-click failed to publish");
     }
   }
 
